@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Blog
+[https://medium.com/@drorberel](https://medium.com/@drorberel "Blog")
 
-What else do you need?
+## Linkedin profile
+[https://www.linkedin.com/in/dror-berel-1848496/](https://www.linkedin.com/in/dror-berel-1848496/ "Linkedin")
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Publications
+[https://www.ncbi.nlm.nih.gov/pubmed?term=%22Berel%20D%22[Author]](https://www.ncbi.nlm.nih.gov/pubmed?term=%22Berel%20D%22[Author] "NCBI")
