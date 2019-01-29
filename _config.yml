@@ -25,9 +25,10 @@ description: professional page
 navbar-links:
   About Me: "aboutme"
   Bioc2mlr: "https://github.com/drorberel/Bioc2mlr"
-  Medium Blog: "https://medium.com/@drorberel/"
-  Resources:
-    - Poster: "https://www.bioconductor.org/help/course-materials/2017/BioC2017/DDay/LightningTalk/SessionII/ImmuneSpaceR.pdf"
+  Poster: "https://www.bioconductor.org/help/course-materials/2017/BioC2017/DDay/LightningTalk/SessionII/ImmuneSpaceR.pdf"
+  Blog: "https://medium.com/@drorberel/"
+  #Resources:
+  #  - Poster: "https://www.bioconductor.org/help/course-materials/2017/BioC2017/DDay/LightningTalk/SessionII/ImmuneSpaceR.pdf"
   #News: "https://github.com/drorberel/drorberel.github.io/blog/"
   
   
