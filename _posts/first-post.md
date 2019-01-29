@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: Welcome!
+title: Welcome
 image: /img/hello_world.jpeg
 ---
 
