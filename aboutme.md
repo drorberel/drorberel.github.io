@@ -3,6 +3,7 @@ layout: page
 title: About me
 ---
 
+<img src="https://drorberel.github.io/img/paradigmIII.jpg">
 
 ## Blog
 [https://medium.com/@drorberel](https://medium.com/@drorberel "Blog")
