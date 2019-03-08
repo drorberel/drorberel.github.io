@@ -27,9 +27,9 @@ navbar-links:
   Bioc2mlr: "https://github.com/drorberel/Bioc2mlr"
   Poster: "https://www.bioconductor.org/help/course-materials/2017/BioC2017/DDay/LightningTalk/SessionII/ImmuneSpaceR.pdf"
   Blog: "https://medium.com/@drorberel/"
+  CV: "https://drorberel.github.io/img/Dror Berel-ResumeII.doc"
   Teaching: "https://www.pce.uw.edu/instructors/dror-berel?s=t"
-  CV: "https://drorberel.github.io/img/Dror Berel-RsumeII.doc"
-  #Resources:
+#Resources:
   #  - Poster: "https://www.bioconductor.org/help/course-materials/2017/BioC2017/DDay/LightningTalk/SessionII/ImmuneSpaceR.pdf"
   #News: "https://github.com/drorberel/drorberel.github.io/blog/"
   
