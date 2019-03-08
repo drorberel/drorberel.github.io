@@ -4,7 +4,7 @@ title: About me
 ---
 
 
-## Computational Biologist at Fred Hutch cancer center, Seattle. 
+## Statistician / Machine Learning specialist at Fred Hutch cancer center, Seattle. 
 
 ## Consultant: currently accepting new projects!   
 
