@@ -1,8 +1,15 @@
 # Dror Berel
 
 
-Computational Biologist at Fred Hutch. passionate about R and Bioconductor
+## Computational Biologist at Fred Hutch. 
 
+## Consultant: currently accepting new projects!   
+
+
+Enthusiastic Statistician with expertise of implementing machine learning (resampling, ensemble, tuning, benchmarking) tools for high-dimensional multiplex data structure. Leveraging higher level scope tools for analysis of convoluted nested datasets, including multi-layer fusion data, n-table dimension reduction methods, and integration of multiple annotation domains. Expert at data engineering pipelines, utilizing scalable object-oriented tools. Designing analytical tools for complex nested experimental design, at the meta-analysis level. Over 15 years of experience in advanced R and Python.
+
+
+# Recent projects: 
 
 ## Multi-assay data analysis
 poster: Prototype meta-analysis demonstration for ImmuneSpaceR, using designated S4 objects
