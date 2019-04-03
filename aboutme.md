@@ -4,10 +4,15 @@ title: About me
 ---
 
 
-## Statistician / Machine Learning specialist at Fred Hutch cancer center, Seattle. 
+# Statistician / Machine Learning specialist 
 
-## Consultant 
+- Reasearcher at Fred Hutch cancer center.  
 
+- Consultant.  
+
+- Teaching Data-Science and Machine learning courses at UW Professional & Continuing Education certificate program.  
+
+*** 
 
 
 
@@ -18,6 +23,9 @@ Leveraging higher level scope tools for analysis of convoluted nested datasets, 
 Expert at data engineering pipelines, utilizing scalable object-oriented tools.  
 Designing analytical tools for complex nested experimental design, at the meta-analysis level.  
 Over 15 years of experience in advanced R and Python. 
+
+*** 
+
 
 ## Skills
 •	Machine learning: Utilization of wide range of machine learning models, with a meta aggregator tools for high level scope analysis: tuning, benchmarking, ensemble, and resampling (cross-validation, bootstrap, etc.), including both specific model (xgboost, neural networks, etc.) and automotive multi-model tools.  
@@ -30,7 +38,7 @@ Over 15 years of experience in advanced R and Python.
 •	Also familiar with BUGS / STAN, SAS, JMP, SPSS, Visual Basic, Java, Matlab, SQL, UNIX.  
 •	Longtime member of the American Statistician Association (ASA); Blogger; Active member at local meetup groups (R, data-science); Vice president of education at a Toastmasters club (International club for public speaking). Teaching applied statistics and machine learning at UW professional certificate program.  
 
-
+*** 
 
 
 ## Blog
@@ -41,6 +49,8 @@ Over 15 years of experience in advanced R and Python.
 
 ## Publications
 [https://www.ncbi.nlm.nih.gov/pubmed?term=%22Berel%20D%22[Author]](https://www.ncbi.nlm.nih.gov/pubmed?term=%22Berel%20D%22[Author] "NCBI") 
+
+*** 
 
 <img src="https://drorberel.github.io/img/paradigmIII.jpg">
 
