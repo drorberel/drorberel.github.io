@@ -54,34 +54,35 @@ title: Consulting
 ***  
 
 # Case Studies:
-1. Multi-assay biomarker discovery.  
--Problem:  
+## 1. Multi-assay biomarker discovery.  
+### Problem:  
 Integrating complex datasets of various annotations to the same subjects. Each data set required specific QC and screening, and had different indexing system for the sample IDs. Also required special handling of technical replicates.  
 
--Solution:  
-Storing the raw data in a generic data container that was specifically designed for this type of data.
-Vertical integration (concatenating) features from all assays into a 'long' format.
+### Solution:  
+Storing the raw data in a generic data container that was specifically designed for this type of data.  
+Vertical integration (concatenating) features from all assays into a 'long' format.  
 Designing a customized feature-selection process that combine univariate filtering, and unsupervised hierarchical clustering, followed by regularized regression, for biomarker discovery.  
-Wrapping the feature selection method under a generic Machine-Learning package, that facilitate tasks of resampling, tuning and benchmarking.
+Wrapping the feature selection method under a generic Machine-Learning package, that facilitate tasks of resampling, tuning and benchmarking.  
  
--Resolution: 
+### Resolution: 
 Scalable, custom-designed object-oriented data container is the ideal data structure for multi-modal data structure. Its built-in methods facilitate fast and simple common tasks for basic wrangling and reformatting.  
 Avoid re-inventing solutions that specialized packages were specifically designed for. Utilize Machine-Learning aggregator packages for common tasks of resampling, tuning, benchmarking etc.  
 
--Reference: Peer-reviewed scientific paper is under review.  
+### Reference: 
+Peer-reviewed scientific paper is under review.  
 Github repo with complete reproducible analytic pipeline will be publicly accessible upon paper publication.  
 
 
-2. Utilizing Object oriented data containers for complex data structure.
--Problem:  
+## 2. Utilizing Object oriented data containers for complex data structure.
+### Problem:  
 Bioinformaticians developed customized scalable tools for handling complex large datasets for decades, even before industry faced similar dimensionality of data.  
-However, because they demonstrate its use mostly for genomic data only, other industries are hesitant to benefit from it.
+However, because they demonstrate its use mostly for genomic data only, other industries are hesitant to benefit from it.  
 
--Solution:  
-Provide educational materials, and simple proof-of-concept demonstrations, on how these data containers can store non-genomic big data, emphasizing the advantages, and leverage of such approach.
+### Solution:  
+Provide educational materials, and simple proof-of-concept demonstrations, on how these data containers can store non-genomic big data, emphasizing the advantages, and leverage of such approach.  
 
--Reference:
-[https://medium.com/@drorberel/bioconductor-s4-classes-for-high-throughput-omic-data-fd6c304d569b](https://medium.com/@drorberel/bioconductor-s4-classes-for-high-throughput-omic-data-fd6c304d569b)
+### Reference:
+[https://medium.com/@drorberel/bioconductor-s4-classes-for-high-throughput-omic-data-fd6c304d569b](https://medium.com/@drorberel/bioconductor-s4-classes-for-high-throughput-omic-data-fd6c304d569b)  
 
-
+***  
 <img src="https://drorberel.github.io/img/paradigmIII.jpg">
