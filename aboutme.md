@@ -34,7 +34,7 @@ Over 15 years of experience in advanced R and Python.
 •	Cross-programing language interface tools: Python’s scikit-learn, Spark, pandas, and others. Interface to R via reticulate rpy2 and others.   
 •	Git version control and reproducible research (Markdown). e.g. https://drorberel.github.io/  
 •	Web applications deployment via REST API and Shiny: e.g. https://dror.shinyapps.io/nomogram/  
-•	Developed R packages: Bioc2mlr https://github.com/drorberel/Bioc2mlr. Utility functions to transform Bioconductor's S4 object oriented genomic classes into meta-aggregator machine learning packages (caret, mlr,…). Customized feature engineering pipelines in a composable ‘monad’ fashion.
+•	Developed R packages: Bioc2mlr https://github.com/drorberel/Bioc2mlr. Utility functions to transform Bioconductor's S4 object oriented genomic classes into meta-aggregator machine learning packages (caret, mlr,…). Customized feature engineering pipelines in a composable ‘monad’ fashion.  
 •	Also familiar with BUGS / STAN, SAS, JMP, SPSS, Visual Basic, Java, Matlab, SQL, UNIX.  
 •	Longtime member of the American Statistician Association (ASA); Blogger; Active member at local meetup groups (R, data-science); Vice president of education at a Toastmasters club (International club for public speaking). Teaching applied statistics and machine learning at UW professional certificate program.  
 
