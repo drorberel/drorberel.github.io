@@ -23,3 +23,7 @@ poster: Prototype meta-analysis demonstration for ImmuneSpaceR, using designated
 R package to bridge between Bioconductor’s S4 complex genomic data container, to mlr, a meta machine learning aggregator package. 
 
 [https://github.com/drorberel/Bioc2mlr](https://github.com/drorberel/Bioc2mlr)
+
+
+## Conference Presentations
+- [ASA SDSS Symposium on Data Science and Statistics, 2019, Bellevue, WA](https://ww2.amstat.org/meetings/sdss/2019/onlineprogram/AbstractDetails.cfm?AbstractID=306196).
