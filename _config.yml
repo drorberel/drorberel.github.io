@@ -24,10 +24,11 @@ description: professional page
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Consulting: "consulting"
   Bioc2mlr: "https://github.com/drorberel/Bioc2mlr"
   Poster: "https://www.bioconductor.org/help/course-materials/2017/BioC2017/DDay/LightningTalk/SessionII/ImmuneSpaceR.pdf"
   Blog: "https://medium.com/@drorberel/"
-  CV: "https://drorberel.github.io/img/Dror Berel-ResumeII.doc"
+  Resume: "https://drorberel.github.io/img/Dror Berel-ResumeII.doc"
   Teaching: "https://www.pce.uw.edu/instructors/dror-berel?s=t"
 #Resources:
   #  - Poster: "https://www.bioconductor.org/help/course-materials/2017/BioC2017/DDay/LightningTalk/SessionII/ImmuneSpaceR.pdf"
