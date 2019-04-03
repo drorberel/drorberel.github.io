@@ -12,7 +12,7 @@ title: Consulting
 1. One-stop-shop for complete data analysis cycle.  
 2. Simplified solution-oriented data analysis tools for complex nested messy datasets.  
 3. Quick dive into data sets of various domains, cleaning the noise from the signal, and discovering hidden insights.  
-4. Centralized multi-disciplinary expertise in solving complex data analysis problems, from first step of understanding the problem, designing the solution, arranging the data, providing the analytical solution, to delivering/communicating the results to various stakeholders across the organization, in terms that make sense to them!   
+4. Centralized multi-disciplinary expertise in solving complex data analysis problems, from first step of understanding the problem, designing the solution, arranging the data, providing the analytical solution, to delivering/communicating the results to various stakeholders across the organization, in terms that make sense to **YOU!**   
 
 
 ***  
