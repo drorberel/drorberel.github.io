@@ -6,10 +6,9 @@ title: About me
 
 ## Statistician / Machine Learning specialist at Fred Hutch cancer center, Seattle. 
 
-## Consultant: currently accepting new projects!   
+## Consultant 
 
 
-<img src="https://drorberel.github.io/img/paradigmIII.jpg">
 
 
 
@@ -41,4 +40,7 @@ Over 15 years of experience in advanced R and Python.
 [https://www.linkedin.com/in/dror-berel-1848496/](https://www.linkedin.com/in/dror-berel-1848496/ "Linkedin")
 
 ## Publications
-[https://www.ncbi.nlm.nih.gov/pubmed?term=%22Berel%20D%22[Author]](https://www.ncbi.nlm.nih.gov/pubmed?term=%22Berel%20D%22[Author] "NCBI")
+[https://www.ncbi.nlm.nih.gov/pubmed?term=%22Berel%20D%22[Author]](https://www.ncbi.nlm.nih.gov/pubmed?term=%22Berel%20D%22[Author] "NCBI") 
+
+<img src="https://drorberel.github.io/img/paradigmIII.jpg">
+

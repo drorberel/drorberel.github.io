@@ -8,7 +8,7 @@ title: Consulting
 *** 
 
 
-## Benefits:
+# Benefits:
 1. One-stop-shop for complete data analysis cycle.  
 2. Simplified solution-oriented data analysis tools for complex nested messy datasets.  
 3. Quick dive into data sets of various domains, cleaning the noise from the signal, and discovering hidden insights.  
@@ -30,7 +30,7 @@ title: Consulting
 
 
 
-## Expertise:
+# Expertise:
 1. Designing analytical tools for complex data sets, of multiple sources / annotations.    
 2. Data architecture: from complex messy raw data sets, to well-annotated 'tidy' nested data structure.  
 3. Visualization: Intuitive, user-customized graphics with dynamic adjustable controls, to allow self-exploration of data pattern and analytics sensitivity.    
@@ -41,7 +41,7 @@ title: Consulting
 
 ***  
 
-## Unique Solutions:
+# Unique Solutions:
 1. Fully reproducible analytical solutions, within a single programing environment (R), for both data architecture managements, analytics, and reporting.  
 2. Free open-source tool. No dependencies on any external propriety software.  
 3. Advanced high-level programing style, reducing coding errors, and designed to better handle edge scenarios and debugging. (e.g. map-reduce, object-oriented data containers, 'tidy' workflow, ...).  
