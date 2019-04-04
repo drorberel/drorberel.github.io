@@ -100,7 +100,8 @@ title: Consulting
 # Case Studies:
 ## 1. Multi-assay biomarker discovery.  
 ### Problem:  
-Integrating complex datasets of various annotations to the same subjects. Each data set required specific QC and screening, and had different indexing system for the sample IDs. Also required special handling of technical replicates.  
+Integrating complex datasets of various annotations to the same subjects. Each data set required specific QC and screening, and had different indexing system for the sample IDs. Also required special handling of technical replicates.
+Out of the thousands of potential biomarkers (features), find the ones that are mostly associated with the clinical outcome.
 
 ### Solution:  
 Storing the raw data in a generic data container that was specifically designed for this type of data.  
@@ -123,6 +124,7 @@ Github repo with complete reproducible analytic pipeline will be publicly access
 ### Problem:  
 Bioinformaticians developed customized scalable tools for handling complex large datasets for decades, even before industry faced similar dimensionality of data.  
 However, because they demonstrate its use mostly for genomic data only, other industries are hesitant to benefit from it.  
+How to utilize and demonstrate that a constrained object oriented data structure, provide value to non-genomic data domains, of similar characteristics.  
 
 ### Solution:  
 Provide educational materials, and simple proof-of-concept demonstrations, on how these data containers can store non-genomic big data, emphasizing the advantages, and leverage of such approach.  
