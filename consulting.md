@@ -52,7 +52,7 @@ title: Consulting
 # Expertise:
 
 <details><summary>Expand</summary>
-<p>
+
 1. Designing analytical tools for complex data sets, of multiple sources / annotations.    
 
 
@@ -72,7 +72,7 @@ title: Consulting
 
 
 7. Addressing remaining potential gaps in current data/methodology, and suggesting next steps to bridge such gaps. Suggesting next steps for future hypothesis testing and experimental design. 
-</p>
+
 </details>
 
 
