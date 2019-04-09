@@ -53,25 +53,25 @@ title: Consulting
 
 <details><summary>Expand</summary>
 
-1. Designing analytical tools for complex data sets, of multiple sources / annotations.    
+1. Designing analytical tools for complex data sets, of multiple sources / annotations.   <br> 
 
 
-2. Data architecture: from complex messy raw data sets, to well-annotated 'tidy' nested data structure.  
+2. Data architecture: from complex messy raw data sets, to well-annotated 'tidy' nested data structure.  <br>
 
 
 3. Visualization: Intuitive, user-customized graphics with dynamic adjustable controls, to allow self-exploration of data pattern and analytics sensitivity.    
+<br>
+
+4. Statistical inference: Classic statistical multivariate tools, and machine learning.    <br>
 
 
-4. Statistical inference: Classic statistical multivariate tools, and machine learning.    
-
-
-5. Deliverable outcomes: HTML / PDF reproducible reports, Dynamic user activated Web-applications, APIs, etc.  
+5. Deliverable outcomes: HTML / PDF reproducible reports, Dynamic user activated Web-applications, APIs, etc.  <br>
 
 
 6. Communicating the results to various stakeholders across the organization.
+<br>
 
-
-7. Addressing remaining potential gaps in current data/methodology, and suggesting next steps to bridge such gaps. Suggesting next steps for future hypothesis testing and experimental design. 
+7. Addressing remaining potential gaps in current data/methodology, and suggesting next steps to bridge such gaps. Suggesting next steps for future hypothesis testing and experimental design. <br>
 
 </details>
 
