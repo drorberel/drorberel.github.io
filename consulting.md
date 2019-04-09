@@ -7,8 +7,12 @@ title: Consulting
 ## Statistician / Machine Learning specialist 
 *** 
 
+<img src="https://drorberel.github.io/img/paradigmIII.jpg">
 
-# Benefits:
+***  
+
+
+# Benefits to clients:
 1. One-stop-shop for complete data analysis cycle.  
 
 
@@ -45,10 +49,10 @@ title: Consulting
 
 
 ***  
-
-
-
 # Expertise:
+
+<details><summary>Expand</summary>
+<p>
 1. Designing analytical tools for complex data sets, of multiple sources / annotations.    
 
 
@@ -68,10 +72,18 @@ title: Consulting
 
 
 7. Addressing remaining potential gaps in current data/methodology, and suggesting next steps to bridge such gaps. Suggesting next steps for future hypothesis testing and experimental design. 
+</p>
+</details>
+
+
+
 
 ***  
 
 # Unique Solutions:
+<details><summary>Expand</summary>
+<p>
+
 1. Fully reproducible analytical solutions, within a single programing environment (R), for both data architecture managements, analytics, and reporting.  
 
 
@@ -93,12 +105,17 @@ title: Consulting
 7. Aggregating results to higher level of meta-analysis.  
 
 
+</p>
+</details>
 
 
 ***  
 
 # Case Studies:
 ## 1. Multi-assay biomarker discovery.  
+
+<details><summary>Expand</summary>
+<p>
 ### Problem:  
 Integrating complex datasets of various annotations to the same subjects. Each data set required specific QC and screening, and had different indexing system for the sample IDs. Also required special handling of technical replicates.
 Out of the thousands of potential biomarkers (features), find the ones that are mostly associated with the clinical outcome.
@@ -117,10 +134,15 @@ Avoid re-inventing solutions that specialized packages were specifically designe
 Peer-reviewed scientific paper is under review.  
 Github repo with complete reproducible analytic pipeline will be publicly accessible upon paper publication.  
 
-
+</p>
+</details>
 
 
 ## 2. Utilizing Object oriented data containers for complex data structure.
+
+<details><summary>Expand</summary>
+<p>
+
 ### Problem:  
 Bioinformaticians developed customized scalable tools for handling complex large datasets for decades, even before industry faced similar dimensionality of data.  
 However, because they demonstrate its use mostly for genomic data only, other industries are hesitant to benefit from it.  
@@ -132,5 +154,7 @@ Provide educational materials, and simple proof-of-concept demonstrations, on ho
 ### Reference:
 [https://medium.com/@drorberel/bioconductor-s4-classes-for-high-throughput-omic-data-fd6c304d569b](https://medium.com/@drorberel/bioconductor-s4-classes-for-high-throughput-omic-data-fd6c304d569b)  
 
-***  
-<img src="https://drorberel.github.io/img/paradigmIII.jpg">
+</p>
+</details>
+
+
