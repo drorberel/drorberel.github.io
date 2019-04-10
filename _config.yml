@@ -32,7 +32,7 @@ navbar-links:
   Blog: "https://medium.com/@drorberel/"
   CV: "https://drorberel.github.io/img/Dror Berel-ResumeII.doc"
   Teaching: "https://www.pce.uw.edu/instructors/dror-berel?s=t"
-  Blog2: "https://drorberel.github.io/blog"
+  News: "https://drorberel.github.io/blog"
 #Resources:
   #  - Poster: "https://www.bioconductor.org/help/course-materials/2017/BioC2017/DDay/LightningTalk/SessionII/ImmuneSpaceR.pdf"
   #News: "https://github.com/drorberel/drorberel.github.io/blog/"
