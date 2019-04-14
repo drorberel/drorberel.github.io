@@ -1,6 +1,6 @@
 ---
 layout: post
-title: try
+title: Bioconductor S4 classes for high-throughput omics data
 tags: [rstats, r-bloggers]
 ---
 
