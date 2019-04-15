@@ -54,3 +54,7 @@ Over 15 years of experience in advanced R and Python.
 
 <img src="https://drorberel.github.io/img/paradigmIII.jpg">
 
+
+
+## Blogroll
+[https://www.r-bloggers.com](https://www.r-bloggers.com)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bioconductor S4 classes for high-throughput omics data
-tags: [rstats, r-bloggers]
+tags: [rstats, r]
 ---
 
 Bioconductor S4 classes for high-throughput omics data
