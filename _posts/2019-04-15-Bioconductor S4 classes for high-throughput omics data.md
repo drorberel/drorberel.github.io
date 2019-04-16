@@ -63,3 +63,5 @@ but what if… I have multiple multi-assay data, e.g. TCGA, or CCLE projects tha
 Which other object oriented approach can achieve such functionality? How would R6 class address it?
 
 Check more related topics here: https://drorberel.github.io/
+
+[first published at my Medium blog](https://medium.com/@drorberel/bioconductor-s4-classes-for-high-throughput-omic-data-fd6c304d569b)
