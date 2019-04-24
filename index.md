@@ -33,9 +33,8 @@ R package to bridge between Bioconductor’s S4 complex genomic data container, 
 - [UseR! 2019](http://www.user2019.fr/program_overview/)
 - [CascadiaR 2019](https://www.eventbank.com/event/cascadia-r-conference-2019-11944/)  
 - [Bioc 2019](http://bioc2019.bioconductor.org/)
-- [ASA SDSS Symposium on Data Science and Statistics, 2019, Bellevue, WA](https://ww2.amstat.org/meetings/sdss/2019/onlineprogram/AbstractDetails.cfm?AbstractID=306196).
+- [ASA SDSS Symposium on Data Science and Statistics, 2019, Bellevue, WA](https://ww2.amstat.org/meetings/sdss/2019/onlineprogram/AbstractDetails.cfm?AbstractID=306196)
 - [UW Northwest data science summit 2019](https://escience.washington.edu/northwest-data-science-summit/)
-
 - [CascadiaR 2018](https://cascadiarconf.com/years/2018/agenda/#dror-berel)  
 - [ASA JSM, Vancouver,BC 2018](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/AbstractDetails.cfm?abstractid=328658)  
 - [CascadiaR 2017](https://cascadiarconf.com/years/2017/agenda/)
