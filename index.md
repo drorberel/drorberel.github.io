@@ -19,7 +19,7 @@ meta-analysis and inferential models.
 ## Recent projects: 
 
 ### Meta analysis of multi-assay data: proof of concept
-poster: Prototype meta-analysis demonstration for ImmuneSpaceR, using designated S4 objects
+Prototype meta-analysis demonstration for ImmuneSpaceR, using designated S4 objects
 [https://www.bioconductor.org/help/course-materials/2017/BioC2017/DDay/LightningTalk/SessionII/ImmuneSpaceR.pdf](https://www.bioconductor.org/help/course-materials/2017/BioC2017/DDay/LightningTalk/SessionII/ImmuneSpaceR.pdf)
 
 
