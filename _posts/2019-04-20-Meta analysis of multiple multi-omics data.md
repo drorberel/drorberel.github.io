@@ -6,7 +6,7 @@ tags: [rstats, r]
 
 ## TL;DR
 tidy tibbles can contain non-atomic classes. This is a proof of concept demonstration for such implementation with S4 object-oriented classes, for meta-analysis of complex genomic data.  
-...
+
 
 ## Motivation
 In my previous post I reviewed the evolution of Bioconductor S4 classes for omics data. The most recent extended class is the MultiAssayExperiment for multi-assay, where each (single) assay store data for thousand of analytes/gens for many subjects.
@@ -67,6 +67,7 @@ credit: Disney XD
 So finally it all made sense! I had a rich well annotated omic data with tremendous clinical interpretation potential, and a good hypothesis. I stored the data in a designated S4 container that support my routine analysis tasks. For the meta-analysis, where my row unit is a single study, I stored my S4 objects in a tibble, and extracted the layers of interest using purrr.
 
 I even had a [poster](https://www.bioconductor.org/help/course-materials/2017/BioC2017/DDay/LightningTalk/SessionII/ImmuneSpaceR.pdf) to present at the annual Bioconductor conference.
+<img src="https://drorberel.github.io/img/blog/b2_4.png">  
 
 
 To sum it up, no need to reinvent the wheel. The secret recipe is very simple: MultiAssayExperiment+tibble+purrr
