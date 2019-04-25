@@ -11,8 +11,8 @@ tags: [rstats, r]
 Multi-omics data integration and analysis. What a beast! It is one of the major challenges in the era of personalized/precision medicine (or whatever you want to call it). Denfinetely mine, as someone who is expected to grab such messy data from multiple sources, allign and annotate it altogether, and then testing some interesting hypothesis with it. If you thought analysis of a single omic (microarray, RNAseq etc) is overwhelming, what about integration of multiple single-omic data? Multi-omics data adds another layer of priceless high-throughput biologic data, attempting to reveal a snapshot from just another ‘biological’ angle, and another, and another... A typical single-omic data usually has two-dimensional matrix representation of measuring the intensity of thousand of genes/analytes (rows) for multiple subjects (columns). A multi-omic approach adds a third dimension, some sort of a data cube, of multiple layers of omics, each omic of different analytes (for the same subjects). That is a lot of data to organize and store. There must be a good, efficient systematic way to do it.
 
 
-<img src="https://drorberel.github.io/img/blog/b1_1.jpeg">
-image credit: Nature http://www.nature.com/ng/journal/v45/n10/fig_tab/ng.2764_F1.html
+<img src="https://drorberel.github.io/img/blog/b1_1.jpeg">  
+image credit: [Nature](http://www.nature.com/ng/journal/v45/n10/fig_tab/ng.2764_F1.html)
 
 
 ## Designated R class to contain specific data
@@ -54,15 +54,15 @@ The S4 class for omics data also had its own learning curve. First came the eSet
 
 While new omic technologies emerged, some generalization of the former class had to be done, and it was evolved into a new S4 class, with even longer name, called SummarizedExperiment. This class also supports ranges of genomic sequences such as GenomicRanges (IRanges, Granges, Rle). The assay(s) slot of the SummarizedExperiment allow multiple matrices but of the same rows (analytes/genes).
 
-<img src="https://drorberel.github.io/img/blog/b1_5.jpeg">
-Source: Bioconductor.org
+<img src="https://drorberel.github.io/img/blog/b1_5.png">  
+image credit: Bioconductor.org
 
 But even that class could not catch up with the demanding need of the Bioconductor community. Different omic technologies has different analytes. We need a new class to handle experiments of multi-assays… How should we call the S4 class to handle that type of data…. MultiAssayExperiment.
 
 The MultiAssayExperiment class has a third dimension, which allows a virtual stacking of each omic layer on top of each other, in parallel for each subject. This S4 object was extended with a third dimension: MultiAssayExperiment.class[ genes, subjects , Assays]
 
-<img src="https://drorberel.github.io/img/blog/b1_6.jpeg">
-Source: Bioconductor.org
+<img src="https://drorberel.github.io/img/blog/b1_6.png">  
+image credit: Bioconductor.org
 
 The square brackets has a special feature which might be either annoying, or a bless, depends how well you utilize it. You probably think what if any of the subsetting return a single outcome (gene, subject or assay), or even an empty one? Aha… The drop=TRUE/FALSE magic parameter can take care of that to decide if the data.frame should be coerced into a vector, or maintain its data frame format. In addition, there is an internal mechanism of a set of self-validation rules that monitor and report a summary of which assays/analytes/subjects are stored.
 
