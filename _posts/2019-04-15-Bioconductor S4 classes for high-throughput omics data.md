@@ -4,7 +4,8 @@ title: Bioconductor S4 classes for high-throughput omics data
 tags: [rstats, r]
 ---
 
-# Bioconductor S4 classes for high-throughput omics data
+## TL;DR
+These object-oriented contstrained classes saved me so many times, that I can't imagine my life without them. If it is good enough for the Bioconductor community to keep develop and maintain, there must be something very usefull in it, for other disciplines to learn.
 
 ## Motivation
 
@@ -86,6 +87,7 @@ but what if… I have multiple multi-assay data, e.g. TCGA, or CCLE projects tha
 
 Which other object oriented approach can achieve such functionality? How would R6 class address it?
 
-Check more related topics here: https://drorberel.github.io/
+Check more related topics here: [https://drorberel.github.io/](https://drorberel.github.io/)
+
 
 [first published at my Medium blog](https://medium.com/@drorberel/bioconductor-s4-classes-for-high-throughput-omic-data-fd6c304d569b)
